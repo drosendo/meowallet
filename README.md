@@ -7,15 +7,15 @@ Donate link: https://jquiterio.eu
 
 Tags: meowallet, payment, gateway
 
-Requires at least: 3.0.1
+Requires at least: Wordpress 3.0.1
 
-Tested up to: 4.1.1
+Tested up to: Wordpress 4.1.1
 
 Stable tag: 1.9
 
 License: GPLv3
 
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 
 MEO Wallet is a plugin for Wordpress/WooCommerce that provides possibility for marchants to accept payments from Wallet.pt
