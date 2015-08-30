@@ -69,11 +69,11 @@ Otherwise you Can use Multibanco Payment Method or VISA Card.
 
 == Screenshots ==
 
-![Admin Setup](assets/screenshots-1.png)
+![Admin Setup](/assets/screenshots-1.png)
 
-![Showing in the payment options](assets/screenshots-2.png)
+![Showing in the payment options](/assets/screenshots-2.png)
 
-![Checkout](assets/screenshots-3.png)
+![Checkout](/assets/screenshots-3.png)
 
 ==   Changelog ==
 
