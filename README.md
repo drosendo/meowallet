@@ -4,7 +4,7 @@ Donate link: https://jquiterio.eu
 Tags: meowallet, payment, gateway
 Requires at least: 3.0.1
 Tested up to: 4.1.1
-Stable tag: 1.0
+Stable tag: 1.9
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -45,7 +45,7 @@ This section describes how to install the plugin and get it working.
 
 
 Notes:
-The the Sandbox environment only provids a fake payment. So its not real.
+The the Sandbox environment only provides a fake payment. So its not real.
 
 == Frequently Asked Questions ==
 
@@ -59,25 +59,30 @@ Otherwise you Can use Multibanco Payment Method or VISA Card.
 
 == Screenshots ==
 
-1. Screenshots-1
+![Admin Setup](assets/screenshots-1.pngraw=true)
 
-![alt meowallet1](assets/screenshots-1.png)
+![Showing in the payment options](assets/screenshots-2.pngraw=true)
 
-2. Screenshots-2
-
-![alt meowallet1](assets/screenshots-2.png)
-
-3. Screenshots-3
-
-![alt meowallet1](assets/screenshots-3.png)
+![Checkout](assets/screenshots-3.pngraw=true)
 
 ==   Changelog ==
 
-= 1.0 =
+= 1.8 =
+
 * Ready integration of Plugin to WooCommerce.
 * Added basic services to provide secure payment to MEO Wallet.
 
+= 1.9 =
+
+* Removed transactions status for now. It will be included at 2.0 version.
+* Code Cleaning
+* Included payment methods accepted by MEO Wallet on ckeckout image.
+
+
 == Upgrade Notice ==
 
-No Upgrade Notices
+For now, only its possible to check if payment is done from MEO Wallet Mechant Page.
+
+== Adictional information ==
+"MEO" and "MEO Wallet" are services from PT Portugal, SGPS, SA "PT Portugal", SAPO and other associated with PT Portugal. For more information, plese contact [PT Portugal](http://www.telecom.pt/) and/or [SAPO](http://www.sapo.pt)
 
