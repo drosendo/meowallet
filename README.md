@@ -59,12 +59,11 @@ The the Sandbox environment only provides a fake payment. So its not real.
 
 == Frequently Asked Questions ==
 
-== Its possible to Pay with VISA Card =
-Yes, Its possible to pay with VISA Cars 
+Is it possible to Pay with VISA Card?
+A: Yes, it is.
 
-== I've a MEO Wallet Account and do not have money in there. How can I do? ==
-You can go to your [MEO Wallet Account Page](https://www.wallet.pt/login) to add credit cards or transfer money to you Wallet.
-Otherwise you Can use Multibanco Payment Method or VISA Card.
+I've a MEO Wallet Account and do not have money in there. How can I do?
+A: You can go to your [MEO Wallet Account Page](https://www.wallet.pt/login) to add credit cards or transfer money to you Wallet. Otherwise you Can use Multibanco (Portugal payment system) as a Payment Method or VISA Card.
 
 
 == Screenshots ==
