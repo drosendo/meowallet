@@ -94,5 +94,6 @@ Otherwise you Can use Multibanco Payment Method or VISA Card.
 For now, only its possible to check if payment is done from MEO Wallet Mechant Page.
 
 == Adictional information ==
+
 "MEO" and "MEO Wallet" are services from PT Portugal, SGPS, SA "PT Portugal", SAPO and other associated with PT Portugal. For more information, plese contact [PT Portugal](http://www.telecom.pt/) and/or [SAPO](http://www.sapo.pt)
 
