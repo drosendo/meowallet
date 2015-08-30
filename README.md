@@ -1,4 +1,6 @@
 === MEO Wallet ===
+
+
 Contributors: jquiterio
 Donate link: https://jquiterio.eu
 Tags: meowallet, payment, gateway
@@ -59,11 +61,11 @@ Otherwise you Can use Multibanco Payment Method or VISA Card.
 
 == Screenshots ==
 
-![Admin Setup](assets/screenshots-1.pngraw=true)
+![Admin Setup](assets/screenshots-1.png raw=true)
 
-![Showing in the payment options](assets/screenshots-2.pngraw=true)
+![Showing in the payment options](assets/screenshots-2.png raw=true)
 
-![Checkout](assets/screenshots-3.pngraw=true)
+![Checkout](assets/screenshots-3.png raw=true)
 
 ==   Changelog ==
 
