@@ -19,7 +19,7 @@ require_once('MEOWallet_Transact.php');
 require_once('MEOWallet_Request.php');
 require_once('MEOWallet_Notify.php');
 require_once('MEOWallet_Checkout.php');
-
+require_once('MEOWallet_Verify.php');
 
 // Sanitization
 //require_once('Sanitizer.php');
